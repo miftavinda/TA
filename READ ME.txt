@@ -1,0 +1,7 @@
+Keterangan file coding:
+1. index.html adalah halaman utama web
+2. denah.html adalah halaman yang menampilkan denah lahan parkir pada web
+3. index2.php adalah backend dari halaman denah.html
+4. kontak.html adalah halaman kontak pada web
+
+folder img berisi gambar yang diperlukan di dalam web
